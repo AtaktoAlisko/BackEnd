@@ -18,29 +18,29 @@ This BMI Calculator is a simple web application that helps users calculate their
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone git@github.com:AtaktoAlisko/BackEnd.git
-    ```
+   ```bash
+   git clone git@github.com:AtaktoAlisko/BackEnd.git
+   ```
 
 2. **Navigate to the project directory:**
 
-    ```bash
-    cd BMI_Calculator
-    ```
+   ```bash
+   cd BackEnd
+   ```
 
 3. **Install dependencies:**
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 ## Usage
 
 1. **Start the server:**
 
-    ```bash
-    npm start
-    ```
+   ```bash
+   node index.js
+   ```
 
 2. **Open your browser and visit [http://localhost:3000](http://localhost:3000).**
 
