@@ -19,7 +19,7 @@ This BMI Calculator is a simple web application that helps users calculate their
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/illus1um/BMI_Calculator.git
+    git clone git@github.com:AtaktoAlisko/BackEnd.git
     ```
 
 2. **Navigate to the project directory:**
